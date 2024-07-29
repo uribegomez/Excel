@@ -58,6 +58,16 @@ Transformar y Visualizar los Datos que permitan a los Propietarios de ésta Tien
 
 ![image](https://github.com/user-attachments/assets/8dc63e79-be41-47cb-85fc-31cb60275c64)
 
+### 8.- Explorar los datos mediante tablas dinámicas.
 
-### Codigo Utilizado en las Consultas SQL.
+a.- Inserta una tabla dinámica en una nueva hoja para mostrar el total de transacciones por categoría, que se podrá filtrar por género. Agrega un gráfico que creas adecuado para visualizar estos datos.
+
+b.- Añade una tabla dinámica en la misma hoja para mostrar el Total de Venta por género, que se podrá filtrar por edad. Agrega un gráfico que creas adecuado para visualizar estos datos.
+
+c.-Redactar 3 puntos clave derivados del análisis de datos que ayuden a los dueños de la tienda a comprender mejor el comportamiento de sus clientes.
+
+
+
+
+### Codigo Utilizado en Excel.
 ```=```
