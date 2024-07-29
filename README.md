@@ -26,9 +26,14 @@ Transformar y Visualizar los Datos que permitan a los Propietarios de ésta Tien
 ![image](https://github.com/user-attachments/assets/65090906-fec3-42fd-a199-bbca82c6c7d1)
 
 5.- Remplazar los valores en el campo Categoría del Producto por los siguientes:
+
 •	Beauty=Belleza
+
 •	Clothing=Ropa
+
 •	Electronics=Electrónica
+
+
 
 ### Codigo Utilizado en las Consultas SQL.
 ```=```
