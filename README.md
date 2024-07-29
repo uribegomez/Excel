@@ -74,8 +74,13 @@ b.- Añade una tabla dinámica en la misma hoja para mostrar el Total de Venta p
 ![image](https://github.com/user-attachments/assets/6ab5f73e-52cb-4548-994a-b161f7cfc906)
 ![image](https://github.com/user-attachments/assets/c72b46e7-45e0-4846-b979-0162c2b0035f)
 
-c.-Redactar 3 puntos clave derivados del análisis de datos que ayuden a los dueños de la tienda a comprender mejor el comportamiento de sus clientes.
+### c.- 3 puntos clave derivados del análisis de datos que ayudan a los dueños de la tienda a comprender mejor el comportamiento de sus clientes.
 
+**•	Punto No.1: Se puede observar de los Graficos de Transacciones por Categoria que hay un mayor Numero de Transacciones por Ropa y Electronicos.** 
+
+**•	Punto No.2: Se puede observar tambien que las Ventas Totales son Generadas por Mujeres.**
+
+**•	Punto No.3: Por lo que se recomienda Invertir en Articulos como Ropa y Electronicos.**
 
 
 
