@@ -29,6 +29,15 @@ Transformar y Visualizar los Datos que permitan a los Propietarios de ésta Tien
 
 •	Beauty=Belleza
 
+![image](https://github.com/user-attachments/assets/5a0845f5-e704-436f-95b2-b26eb13831ba)
+![image](https://github.com/user-attachments/assets/0a85222b-37e3-4328-a48d-37c513f7a346)
+
+
+
+
+
+
+
 •	Clothing=Ropa
 
 •	Electronics=Electrónica
