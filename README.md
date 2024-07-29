@@ -54,6 +54,9 @@ Transformar y Visualizar los Datos que permitan a los Propietarios de ésta Tien
 
 ![image](https://github.com/user-attachments/assets/37fef30c-a366-420a-a3a2-c798d31ec177)
 
+7.- Inmovilizar la primera fila de la base de datos.
+
+![image](https://github.com/user-attachments/assets/8dc63e79-be41-47cb-85fc-31cb60275c64)
 
 
 ### Codigo Utilizado en las Consultas SQL.
