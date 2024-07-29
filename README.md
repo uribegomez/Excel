@@ -62,7 +62,17 @@ Transformar y Visualizar los Datos que permitan a los Propietarios de ésta Tien
 
 a.- Inserta una tabla dinámica en una nueva hoja para mostrar el total de transacciones por categoría, que se podrá filtrar por género. Agrega un gráfico que creas adecuado para visualizar estos datos.
 
+![image](https://github.com/user-attachments/assets/f811be8a-c6da-4a58-8276-55f7d71497cf)
+![image](https://github.com/user-attachments/assets/aafa8670-1b26-445a-abed-7d3bb1483c87)
+
 b.- Añade una tabla dinámica en la misma hoja para mostrar el Total de Venta por género, que se podrá filtrar por edad. Agrega un gráfico que creas adecuado para visualizar estos datos.
+
+![image](https://github.com/user-attachments/assets/56032162-b374-47f2-b39e-e7c7dbaba298)
+![image](https://github.com/user-attachments/assets/e958f5f9-ac69-4b9b-a5e8-966ae029d126)
+![image](https://github.com/user-attachments/assets/440e538b-6df5-4794-b3ad-b3c15372260a)
+![image](https://github.com/user-attachments/assets/2a78f41e-9b6d-4e47-a0e4-b795fcb5e0a8)
+![image](https://github.com/user-attachments/assets/6ab5f73e-52cb-4548-994a-b161f7cfc906)
+![image](https://github.com/user-attachments/assets/c72b46e7-45e0-4846-b979-0162c2b0035f)
 
 c.-Redactar 3 puntos clave derivados del análisis de datos que ayuden a los dueños de la tienda a comprender mejor el comportamiento de sus clientes.
 
