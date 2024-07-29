@@ -32,17 +32,17 @@ Transformar y Visualizar los Datos que permitan a los Propietarios de ésta Tien
 ![image](https://github.com/user-attachments/assets/5a0845f5-e704-436f-95b2-b26eb13831ba)
 ![image](https://github.com/user-attachments/assets/0a85222b-37e3-4328-a48d-37c513f7a346)
 
-
-
-
-
-
-
 •	Clothing=Ropa
+
+![image](https://github.com/user-attachments/assets/95ad9c60-a269-492e-a79c-56f8e2824630)
+![image](https://github.com/user-attachments/assets/5c633afa-31c4-4322-b72d-1f2c05e39f8a)
+
+
 
 •	Electronics=Electrónica
 
-
+![image](https://github.com/user-attachments/assets/8488b711-d023-4c2e-a6c9-afcd1c8ecf35)
+![image](https://github.com/user-attachments/assets/c19ae7d2-ff95-424e-b70f-726ffc4f8526)
 
 ### Codigo Utilizado en las Consultas SQL.
 ```=```
