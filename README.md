@@ -44,5 +44,17 @@ Transformar y Visualizar los Datos que permitan a los Propietarios de ésta Tien
 ![image](https://github.com/user-attachments/assets/8488b711-d023-4c2e-a6c9-afcd1c8ecf35)
 ![image](https://github.com/user-attachments/assets/c19ae7d2-ff95-424e-b70f-726ffc4f8526)
 
+6.- Darle formato condicional al relleno de cada una de las Categorías de Producto: 
+
+•	Belleza color rosa
+
+•	Ropa color verde claro
+
+•	Electrónica color azul claro
+
+![image](https://github.com/user-attachments/assets/37fef30c-a366-420a-a3a2-c798d31ec177)
+
+
+
 ### Codigo Utilizado en las Consultas SQL.
 ```=```
