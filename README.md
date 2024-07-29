@@ -17,13 +17,17 @@ Transformar y Visualizar los Datos que permitan a los Propietarios de ésta Tien
 3.- Ordena las columnas en orden descendente con base en el Total de Transacción.
 ![image](https://github.com/user-attachments/assets/39bf85f5-ecb4-4fe2-bbbf-e2a80e3b28bc)
 
-4.- 4.- Formatear las siguientes columnas:
+4.- Formatear las siguientes columnas:
+
 •	Precio por unidad a moneda sin decimales
+
 •	Total de transacción a moneda sin decimales
 ![image](https://github.com/user-attachments/assets/65090906-fec3-42fd-a199-bbca82c6c7d1)
 
-
-![ExcelScreen](https://github.com/user-attachments/assets/b8007d79-219a-49ad-8622-42f573840369)
+5.- Remplazar los valores en el campo Categoría del Producto por los siguientes:
+•	Beauty=Belleza
+•	Clothing=Ropa
+•	Electronics=Electrónica
 
 ### Codigo Utilizado en las Consultas SQL.
 ```=```
