@@ -9,6 +9,7 @@ Transformar y Visualizar los Datos que permitan a los Propietarios de ésta Tien
 
 ## Resultados y Conclusiones.
 1.- Se revisan las primeras filas del conjunto de datos para entender su estructura y confirma que ningún ID de transacción esté repetido.
+
 ![image](https://github.com/user-attachments/assets/ae573cb4-0e58-442e-bdbe-d146c882963d)
 
 **2.- Se agrega una nueva columna para calcular el Total de Venta (Cantidad * Precio por Unidad).**
